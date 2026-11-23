@@ -175,7 +175,7 @@ EpiAlert/
 │   ├── pcb_isometric.png                  # PCB CAD 3D isometric view
 │   ├── pcb_top.png                        # PCB top layer layout
 │   ├── wristband_v1.jpg                   # Stage 1 physical wristband prototype
-│   ├── circuit_diagram.png                # Labeled hardware circuit schematic
+│   ├── circuit_diagram.png                # Production circuit schematic (Feather M0, Sensors, SIM800L)
 │   ├── gsm_cellular_alert.jpg             # Caregiver cellular alert notification
 │   └── hardware_breadboard.jpg            # Early hardware validation breadboard
 └── README.md
