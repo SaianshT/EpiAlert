@@ -3,6 +3,7 @@
   <p align="center"><strong>An Autonomous Multi-Centroid Hyperdimensional Computing Framework for Real-Time Seizure Detection on Wearable Edge Hardware</strong></p>
   <p align="center">
     <a href="https://github.com/SaianshT/EpiAlert/blob/main/docs/EpiAlert_Project_Overview.pdf"><img src="https://img.shields.io/badge/View_Project_Overview-PDF-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Project Overview PDF"></a>
+    <a href="https://youtu.be/XuNVwjO0qEc"><img src="https://img.shields.io/badge/Watch_Video_Explanation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video Explanation on YouTube"></a>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Platform-ARM_Cortex--M0+-0F172A?style=for-the-badge&logo=arm" alt="Platform">
@@ -183,6 +184,20 @@ EpiAlert/
 
 > **Notice Regarding `ml/` (Source Code Availability):**  
 > The Python Multi-Centroid Hyperdimensional Computing (HDC) training and continuous learning codebase, adapted from Pale et al. (2022), is still being validated, and will be published shortly.
+
+---
+
+## Video Walkthrough & Technical Explanation
+
+A comprehensive video explanation detailing EpiAlert's wearable hardware engineering, multimodal biosignal processing, and Hyperdimensional Computing (HDC) on-device inference:
+
+<p align="center">
+  <a href="https://youtu.be/XuNVwjO0qEc">
+    <img src="https://img.shields.io/badge/YouTube-Watch_EpiAlert_Explanation_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch EpiAlert Explanation on YouTube">
+  </a>
+</p>
+
+> 📺 **Direct Video Link:** [https://youtu.be/XuNVwjO0qEc](https://youtu.be/XuNVwjO0qEc)
 
 ---
 
