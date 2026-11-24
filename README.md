@@ -186,8 +186,23 @@ EpiAlert/
 
 ---
 
-## Author & Acknowledgements
+## Author, Mentorship & Acknowledgements
 
-- **Author:** Saiansh Tapuriah
-- **Academic Mentors:** Dr. Sachin Kumar B (CBME, IIT Delhi), Dr. Biswarup Mukherjee (CBME, IIT Delhi), Ritu Panda (Ashoka University)
-- **Data Acknowledgement:** The *My Seizure Gauge* (MSG) dataset provided through the Epilepsy Ecosystem.
+- **Author & System Architect:** Saiansh Tapuriah
+- **Clinical & Biomedical Mentorship:** Dr. Sachin Kumar B (Associate Professor, Centre for Biomedical Engineering - CBME, IIT Delhi) and Dr. Biswarup Mukherjee (Associate Professor, Centre for Biomedical Engineering - CBME, IIT Delhi), for continuous guidance on clinical feasibility and ambulatory hardware constraints.
+- **Machine Learning & Neuroscience Mentorship:** Ritu Panda (PhD Researcher in Computational Neuroscience, Ashoka University), for invaluable supervision regarding multi-centroid hyperdimensional vector embeddings and streaming adaptation.
+- **Benchmark Dataset Attribution:** Special gratitude to **Dr. Levin Kuhlmann** (Associate Professor of Data Science and AI at Monash University, and Lead at Epilepsy Ecosystem) for granting access to the *My Seizure Gauge* (MSG) benchmark dataset, which formed the empirical foundation for our multimodal signal processing, baseline comparisons, and HDC model evaluations.
+- **Foundational Architecture Guidance:** Appreciation to **Dr. Tomas Teijeiro** (Embedded Systems Laboratory - ESL, EPFL), co-author of the foundational Multi-Centroid HDC research, for research correspondence and recommendations that helped shape our binary projection architecture.
+- **Personal Dedication:** Dedicated to the author's elder brother, whose 25-year battle with epilepsy served as the lifelong inspiration to engineer autonomous, low-cost seizure detection hardware.
+
+---
+
+## References & Academic Literature
+
+1. **Kuhlmann, L., & Alsayed, Y. M. (2021).** *My Seizure Gauge*. Epilepsy Ecosystem. Available at: [epilepsyecosystem.org/my-seizure-gauge-1](https://www.epilepsyecosystem.org/my-seizure-gauge-1)
+2. **Brinkmann, B. H., Karoly, P. J., Nurse, E. S., Dumanis, S. B., Nasseri, M., Viana, P. F., Schulze-Bonhage, A., Freestone, D. R., Worrell, G., Richardson, M. P., & Cook, M. J. (2021).** Seizure Diaries and Forecasting With Wearables: Epilepsy Monitoring Outside the Clinic. *Frontiers in Neurology*, 12, 690404. [doi:10.3389/fneur.2021.690404](https://doi.org/10.3389/fneur.2021.690404)
+3. **Pale, U., Teijeiro, T., & Atienza, D. (2022).** Multi-Centroid Hyperdimensional Computing Approach for Epileptic Seizure Detection. *Frontiers in Neurology*, 13, 816294. [doi:10.3389/fneur.2022.816294](https://doi.org/10.3389/fneur.2022.816294)
+4. **Pale, U., Teijeiro, T., & Atienza, D. (2023).** Combining General and Personalized Models for Epilepsy Detection with Hyperdimensional Computing. *Artificial Intelligence in Medicine*, 102754. [doi:10.1016/j.artmed.2023.102754](https://doi.org/10.1016/j.artmed.2023.102754)
+5. **Kanerva, P. (2009).** Hyperdimensional Computing: An Introduction to Computing in Distributed Representation with High-Dimensional Random Vectors. *Cognitive Computation*, 1(2), 139–159. [doi:10.1007/s12559-009-9009-8](https://doi.org/10.1007/s12559-009-9009-8)
+6. **Tang, J., El Atrache, R., Yu, S., Asif, U., Jackson, M., Roy, S., Mirmomeni, M., Cantley, S., Sheehan, T., Schubach, S., Ufongene, C., Vieluf, S., Meisel, C., Harrer, S., & Loddenkemper, T. (2021).** Seizure detection using wearable sensors and machine learning: Setting a benchmark. *Epilepsia*, 62(8), 1807–1819. [doi:10.1111/epi.16967](https://doi.org/10.1111/epi.16967)
+7. **American Epilepsy Society. (2021).** *My Seizure Gauge: Seizure forecasting and detection with wearable devices and subcutaneous EEG*. Available at: [aesnet.org/abstractslisting/my-seizure-gauge](https://aesnet.org/abstractslisting/my-seizure-gauge--seizure-forecasting-and-detection-with-wearable-devices-and-subcutaneous-eeg)
